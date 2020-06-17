@@ -1,0 +1,13 @@
+scipy
+requests
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+pip
+PyMySQL
+Flask
+flask-sqlalchemy
+SQLAlchemy
+sqlalchemy_utils
